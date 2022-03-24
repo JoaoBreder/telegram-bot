@@ -1,5 +1,2 @@
 # Root Folder
-/bot/node_modules
-
-# Source Folder
-/bot/src/secrets.js
+/node_modules
